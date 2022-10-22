@@ -1,2 +1,3 @@
 # flowcharts
-this is a flowchart for bisection method 
+this is a flowchart for root finding techniques
+
